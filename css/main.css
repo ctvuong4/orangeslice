@@ -1,0 +1,203 @@
+* {
+	margin: 0;
+}
+
+nav {
+	background-color: #FE7E00;
+	height: 80px;
+	color: #FFF8D6;
+	font-family: 'Quicksand', sans-serif;
+}
+
+/*logo*/
+
+.logo {
+	margin-left: 100px;
+	margin-right: 0px;
+	padding-top: 25px;
+	width: 25%;
+	display: inline-block;
+
+}
+
+.logo a {
+	text-decoration: none;
+	color: #FFF8D6;
+	font-size: 25px;
+	font-weight: 700;
+	letter-spacing: 0px;
+	display: inline-block;
+
+}
+
+.logo a div {
+	display: inline-block;
+	line-height: 5px;	
+}
+
+.logo span {
+	font-weight: 300;
+	letter-spacing: 0;
+}
+
+.logo sup {
+	font-size: 8px;
+	font-weight: 700;
+}
+
+/*nav menu*/
+
+.nav {
+	width: 60%;
+	float: right;
+	margin-top: 30px;
+
+}
+
+.nav ul {
+	list-style: none;
+	display: inline;
+	float: right;
+	margin-right: 15%;
+
+	
+}
+
+.nav ul li {
+	display: inline;
+	margin-right: 30px;
+}
+.nav ul li a {
+	text-decoration: none;
+	color: #FFF8D6;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 12px
+	font-weight: 700;
+
+}
+
+/*search bar*/
+
+.search {
+	height: 40px;
+}
+
+.search input {
+	float: right;
+	margin-right: 11%;
+	height: 40px;
+	background-color: #EFEFEE;
+	border: none;
+	width: 150px;
+}
+
+.search i {
+	float: right;
+	position: absolute;
+}
+
+.search	.fa-search {
+	padding-left: 87%;
+	padding-top: 12px;
+	color: #C4C4C6;
+}
+
+.mainsection {
+	height: 300px;
+}
+
+.orangeimg {
+	width: 30%;
+	margin: 0 auto;
+	float: left;
+	margin-left: 5%;
+}
+
+.app {
+
+	float: right;
+	width: 40%;
+	margin-right: 10%;
+	color: #FE7E00;
+	font-size: 30px;
+	font-weight: 300;
+	font-family: 'Quicksand', sans-serif;
+	margin-top: 15px;
+
+}
+
+.app em {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.app sup {
+	font-size: 11px;
+	font-weight: 700;
+}
+
+.app span {
+	font-weight: 700;
+	color: #7ACCC8;
+}
+
+
+.buttons {
+	float: right;
+	margin-top: 40px;
+	width: 40%;
+	margin-right: 10%;
+
+}
+
+.buttons .button1 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	color: #fff;
+	background-color: #FE7E00;
+	border: none;
+	border-radius: 2%;
+	margin-right: 30px;
+	height: 35px;
+	width: 150px;
+}
+
+.buttons .button2 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	color: #fff;
+	background-color: #7ACCC8;
+	border: none;
+	border-radius: 2%;
+	height: 35px;
+	width: 150px;
+
+}
+
+footer {
+	height: 80px;
+	width:100%;
+	background-color: #7ACCC8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
